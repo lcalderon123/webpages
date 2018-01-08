@@ -1,0 +1,23 @@
+{
+  "name": "webdesigns",
+  "version": "1.0.0",
+  "description": "web design store",
+  "main": "webpages.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcalderon123/webpages.git"
+  },
+  "author": "Lea Calderon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcalderon123/webpages/issues"
+  },
+  "homepage": "https://github.com/lcalderon123/webpages#readme",
+  "dependencies": {
+    "inquirer": "^5.0.0",
+    "mysql": "^2.15.0"
+  }
+}
